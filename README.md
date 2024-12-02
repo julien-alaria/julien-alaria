@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Julien
-<h3> Nice to meet you! </h3>
+
 <p>A passionate beginner developer from France 
 <p>  - 🔭 I’m currently studying at La Plateforme </p> 
 <p>  - 🌱 I’m currently learning HTML5, CSS3 and PYTHON </p>
