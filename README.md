@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Julien
 
-<p>A passionate beginner developer from France 
+<p>A beginner developer passionate from France 
 <p>  - 🔭 I’m currently studying at La Plateforme </p> 
 <p>  - 🌱 I’m currently learning HTML5, CSS3 and PYTHON </p>
 <h2>🚀 Languages and Tools I Use</h2>
