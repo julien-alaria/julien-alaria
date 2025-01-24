@@ -3,7 +3,7 @@
 <p>A beginner developer passionate from France 
 <p>  - I’m currently studying at La Plateforme </p> 
 <p>  - I’m currently learning HTML5, CSS3, PHP, PYTHON and FIGMA</p>
-<p>    julien-alaria.github.io/portfolio/</p>
+<p>    https://julien-alaria.github.io/portfolio/</p>
 <h2> Languages and Tools I Use</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
